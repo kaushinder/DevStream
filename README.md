@@ -1,4 +1,3 @@
-```
 # DevTinder
 
 - Create a Vite + React application
@@ -172,5 +171,3 @@ Body
     - Homework: Limit messages when fetching from DB
     - Project Ideas: Tic tac toe game
     - Project Idea 2 : Chess
-
-    ```
