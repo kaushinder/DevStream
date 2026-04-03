@@ -1,4 +1,4 @@
-<h1 align="center">Tinder Clone ✨</h1>
+<h1 align="center">DevSwipe ⭐ ✨</h1>
 
 ![Demo App](/client/public/screenshot-for-readme.png)
 
